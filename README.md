@@ -1,4 +1,4 @@
-<h1 align="center">🌠About Me</h1>
+<h1 align="center">💫 About Me</h1>
 <h3 align="center">CS Graduate | Software Developer | AI & Cloud Enthusiast| Problem Solver</h3>
 I'm Bilmis Afthash Meeran, a BTech Computer Science Graduate from College Of Engineering Trivandrum loving software engineering more than I'd imagined
 
