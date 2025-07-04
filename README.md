@@ -1,5 +1,6 @@
 <h1 align="center">💫 About Me</h1>
 <h3 align="center">CS Graduate | Software Developer | AI & Cloud Enthusiast| Problem Solver</h3>
+![Hi, I'm Bilmis](./image.png)
 I'm Bilmis Afthash Meeran, a BTech Computer Science Graduate from College Of Engineering Trivandrum
 
 - 🔭 I’m currently working on [Gemini-Powered-AI-Assistant](https://d27dsq3yzkj3os.cloudfront.net/)
