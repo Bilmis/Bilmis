@@ -2,7 +2,7 @@
 <h3 align="center">CS Graduate | Software Developer | AI & Cloud Enthusiast| Problem Solver</h3>
 I'm Bilmis Afthash Meeran, a BTech Computer Science Graduate from College Of Engineering Trivandrum
 
-- 🔭 I’m currently working on [Gemini-Powered-Chatbot](https://d27dsq3yzkj3os.cloudfront.net/)
+- 🔭 I’m currently working on [Gemini-Powered-AI-Assistant](https://d27dsq3yzkj3os.cloudfront.net/)
 
 - 🌱 I’m currently learning **NLP,Generative AI and Kubernetes**
 
