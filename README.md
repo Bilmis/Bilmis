@@ -1,4 +1,3 @@
-<h1 align="center">💫 About Me</h1>
 <h3 align="center">CS Graduate | Software Developer | AI & Cloud Enthusiast| Problem Solver</h3>
 
 ![Hi, I'm Bilmis](./image.png)
