@@ -15,7 +15,7 @@ I'm Bilmis Afthash Meeran, a BTech Computer Science Graduate from College Of Eng
 - 📫 How to reach me **bilmisafthash18@gmail.com**
 
 - 📄 Know about my experiences: [Resume-Link](https://drive.google.com/file/d/1vnsXYWOn_Pr-Vd94aY5dlqMGjOhl4adJ/view?usp=drive_link)
-- ⚡ Fun fact **I think I have a good humour Sense😁**
+- ⚡ Fun fact **I think I have a good sense of humour😁**
 
 <h3 align="left"></h3>
 <p align="left">
