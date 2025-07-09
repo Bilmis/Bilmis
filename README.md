@@ -4,7 +4,7 @@
 
 I'm Bilmis Afthash Meeran, a BTech Computer Science Graduate from College Of Engineering Trivandrum
 
-- 🔭 I’m currently working on [Gemini-Powered-AI-Assistant](https://d27dsq3yzkj3os.cloudfront.net/)
+- 🔭 Recently finished Project: [Gemini-Powered-AI-Assistant](https://d27dsq3yzkj3os.cloudfront.net/)
 
 - 🌱 I’m currently learning **NLP,Generative AI and Kubernetes**
 
