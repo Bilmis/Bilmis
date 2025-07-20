@@ -17,16 +17,17 @@ I'm Bilmis Afthash Meeran, a BTech Computer Science Graduate(Hons.) from College
 - 📄 Know about my experiences: [Resume-Link](https://drive.google.com/file/d/1vnsXYWOn_Pr-Vd94aY5dlqMGjOhl4adJ/view?usp=drive_link)
 - ⚡ Fun fact **I think I have a good sense of humour😁**
 
+<!--
 <h3 align="left"></h3>
 <p align="left">
 <a href="https://linkedin.com/in/bilmis afthash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilmis afthash" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bilmis-afthash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bilmis-afthash" height="30" width="40" /></a>
 </p>
-
-
+-->
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BilmisAfthash) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bilmisafthash18@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BilmisAfthash) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bilmisafthash18@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-2C2C2C?style=flat&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Bilmis-Afthash/)
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![transformers](https://img.shields.io/badge/%20Transformers-FF6B00?style=for-the-badge&logo=huggingface&logoColor=white)
