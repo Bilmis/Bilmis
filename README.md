@@ -2,7 +2,7 @@
 
 ![Hi, I'm Bilmis](./image.png)
 
-I'm Bilmis Afthash Meeran, a BTech Computer Science Graduate from College Of Engineering Trivandrum
+I'm Bilmis Afthash Meeran, a BTech Computer Science Graduate(Hons.) from College Of Engineering Trivandrum with a CGPA of 9.46
 
 - 🔭 Recently finished Project: [Gemini-Powered-AI-Assistant](https://d27dsq3yzkj3os.cloudfront.net/)
 
