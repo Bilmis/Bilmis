@@ -6,7 +6,7 @@ I'm Bilmis Afthash Meeran, a BTech Computer Science Graduate(Hons.) from College
 
 - 🔭 Recently finished Project: [Gemini-Powered-AI-Assistant](https://d27dsq3yzkj3os.cloudfront.net/)
 
-- 🌱 I’m currently learning **RAG and Kubernetes**
+- 🌱 I’m currently learning **RAG and LangChain**
 
 - 👨‍💻 All of my projects are available at [Projects-Link](https://github.com/Bilmis?tab=repositories)
 
