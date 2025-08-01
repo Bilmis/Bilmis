@@ -16,7 +16,10 @@ I'm Bilmis Afthash Meeran, a BTech Computer Science Graduate(Hons.) from College
 
 - 📄 Know about my experiences: [Resume-Link](https://drive.google.com/file/d/1X0nBSItQ9V2oorE70IomjgEMt_PDZCca/view?usp=sharing)
  
+- 🔭 Checkout The AI-Powered Courses Published at "Guidee.me": [Link](https://guidee.me/user/Bilmis)
+
 - [Leetcode Problems](https://leetcode.com/progress/) solved - 336 and counting...
+
 - ⚡ Fun fact:  **I have a good sense of humour😁**
 
 <!--
