@@ -1,4 +1,4 @@
-<h3 align="center">CS Graduate | AI Engineer | Cloud Enthusiast| Problem Solver</h3>
+<h3 align="center">CS Graduate | AI Engineer | Cloud Enthusiast | Problem Solver</h3>
 
 ![Hi, I'm Bilmis](./image.png)
 
