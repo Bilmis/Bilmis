@@ -18,7 +18,7 @@ I'm Bilmis Afthash Meeran, a BTech Computer Science Graduate(Hons.) from College
  
 - 🔭 Checkout The AI-Powered Courses Published at "Guidee.me": [Link](https://guidee.me/user/Bilmis)
 
-- ⚡[Leetcode](https://leetcode.com/progress/) Problems-solved :- 339 and counting...😁
+- ⚡[Leetcode](https://leetcode.com/progress/) Problems-solved :- 341 and counting...😁
 
 <!--
 <h3 align="left"></h3>
