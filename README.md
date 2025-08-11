@@ -1,4 +1,4 @@
-<h3 align="center">CS Graduate | Software Developer | AI & Cloud Enthusiast| Problem Solver</h3>
+<h3 align="center">CS Graduate | AI Engineer | Cloud Enthusiast| Problem Solver</h3>
 
 ![Hi, I'm Bilmis](./image.png)
 
@@ -14,7 +14,7 @@ I'm Bilmis Afthash Meeran, a BTech Computer Science Graduate(Hons.) from College
 
 - 📫 How to reach me **bilmisafthash18@gmail.com**
 
-- 📄 Know about my experiences: [Resume-Link](https://drive.google.com/file/d/1X0nBSItQ9V2oorE70IomjgEMt_PDZCca/view?usp=sharing)
+- 📄 Know about my experiences: [Resume-Link](https://drive.google.com/file/d/1mDEus4X7VE5Ytybnr6MQ3C_MqLNNSrZW/view?usp=drive_link)
  
 - 🔭 Checkout The AI-Powered Courses Published at "Guidee.me": [Link](https://guidee.me/user/Bilmis)
 
