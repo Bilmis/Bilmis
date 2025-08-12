@@ -6,7 +6,7 @@ I'm Bilmis Afthash Meeran, a BTech Computer Science Graduate(Hons.) from College
 
 - 🔭 Recently finished Project: [Gemini-Powered-AI-Assistant](https://d27dsq3yzkj3os.cloudfront.net/)
 
-- 🌱 I’m currently mastering **AI Agents**
+- 🌱 Currently mastering **AI Agents**
 
 - 👨‍💻 All of my projects are available at [Projects-Link](https://github.com/Bilmis?tab=repositories)
 
@@ -18,7 +18,7 @@ I'm Bilmis Afthash Meeran, a BTech Computer Science Graduate(Hons.) from College
  
 - 🔭 Checkout The AI-Powered Courses Published at "Guidee.me": [Link](https://guidee.me/user/Bilmis)
 
-- ⚡[Leetcode](https://leetcode.com/progress/) Problems-solved :- 341 and counting...😁
+- ⚡500+ DSA Problems-solved across Leetcode,gfg and Naukri😁
 
 <!--
 <h3 align="left"></h3>
